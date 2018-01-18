@@ -1,0 +1,34 @@
+Wof Order of Operation.
+
+Display Welcome Screen.
+Ask for amount of Players ( 1-4 )
+Store in numPlayers.
+Ask for player Names
+Store Player Name in playerName array position ( 0-3 ).
+Set Game Categories ( Pick the 6 game Categories at random for current game
+	in gameCategories[6] positions ( 0-5 ).
+Set Game Phrases ( Pick Random phrase from category phrases ) store in
+	gamePhrases[6] positions ( 0-5 ).
+ClearScreen
+
+Round1 Begin
+Display Category Name.
+Display Blank Puzzle for (gamePhrase[0])
+
+Display Player One Turn.
+Press "S" to spin the wheel
+Generate Letter Value (Random 0 - 35)
+Store in curLetterValue.
+Check for Special Prize ( Random 0 - 19 ) zero value means prize found
+	if prize found determine prize ( Random 0 - 24 from prizes[25] array)
+Ask for Letter guess.
+Store Letter in char curLetter.
+Test Letter against (gamePhrase[0])
+if false Next Player
+if true
+count occurances
+multiply occurances x 	
+store in playerPrizes[4][20] two dimensional int array playerPosition and prizePosition
+
+
+

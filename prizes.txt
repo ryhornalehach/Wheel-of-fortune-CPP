@@ -1,0 +1,20 @@
+Trip - All expenses to Aruba
+Trip - All expenses to New York City
+Trip - All expenses to Barbados 
+Trip - All expenses to Melbourne Australia
+Trip - All expenses to Hollywood California
+Trip - All expenses to Paris France
+Trip - All expenses to London England
+Trip - All expenses to Jamaica
+Trip - All expenses to Bermuda
+Trip - All expenses to Rome Italy
+Car - Mercedes 300c
+Car - Cadillac STS
+Car - BMW X5
+Car - Buick Crossover
+Car - Chevy Camaro
+Car - Mercedes 240SLK
+Car - BMW 325i
+Car - Ford Mustang GT
+Car - Ford F250 Pickup
+Car - Volvo SC80
